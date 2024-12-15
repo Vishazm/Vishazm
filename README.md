@@ -1,7 +1,7 @@
 # Welcome to My GitHub Portfolio!
 
 ## About Me
-👋 Hello! I'm a passionate data enthusiast with experience in data science, data engineering, and machine learning. I love exploring data, solving complex problems, and sharing my learning journey through projects.
+👋 Hello! I'm a passionate data enthusiast with experience in data analytics, data engineering, and machine learning. I love exploring data, solving complex problems, and sharing my learning journey through projects.
 
 ## What You’ll Find Here
 🔍 On my GitHub, you'll discover projects covering data analysis, machine learning models, and data engineering pipelines. Each repository includes detailed documentation to help you understand the project's goals, tools used, and insights gained.
